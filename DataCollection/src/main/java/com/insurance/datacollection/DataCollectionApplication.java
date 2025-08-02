@@ -13,6 +13,7 @@ public class DataCollectionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DataCollectionApplication.class, args);
+		System.out.println("Done");
 	}
 
 }
